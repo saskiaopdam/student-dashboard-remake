@@ -1,7 +1,9 @@
 # Student Dashboard Remake
 *Winc Academy eindopdracht front-end (remake)* 
 
-Bekijk de [remake live](https://student-dashboard-winc-fe-remake.netlify.app) op Netlify (work-in-progress).
+## Deploy
+
+Bekijk de [APP LIVE](https://student-dashboard-winc-fe.netlify.app) op Netlify (work-in-progress).
 
 ## Doel
 
