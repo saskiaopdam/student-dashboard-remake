@@ -3,7 +3,7 @@
 
 ## Deploy
 
-Bekijk de [APP LIVE](https://student-dashboard-winc-fe.netlify.app) op Netlify (work-in-progress).
+Bekijk de [APP LIVE](https://student-dashboard-winc-fe-remake.netlify.app) op Netlify (work-in-progress).
 
 ## Doel
 
